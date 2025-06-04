@@ -1,12 +1,4 @@
-# Ignorar ambientes virtuais
 .venv/
-venv/
-
-# Ignorar variáveis de ambiente
 .env
-
-# Ignorar checkpoints do Jupyter
 .ipynb_checkpoints/
-
-# Ignorar a pasta do projeto (caso você não queira versionar arquivos internos dela)
 IA Agents Mercado/
